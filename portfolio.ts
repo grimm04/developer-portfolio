@@ -237,6 +237,8 @@ export const projects: ProjectType[] = [
 //       "Very skilled at what he does and has an in depth knowledge of Django and he's always ready to handle any challenges thrown at him. He's been a valuable member of my team and i look forward to working with him in the years to come",
 //   },
 // ];
+export const feedbacks: FeedbackType[] = [ 
+];
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
