@@ -245,8 +245,8 @@ export const seoData: SEODataType = {
   title: "Syahril Ramdani",
   description: greetings.description,
   author: "Syahril Ramdani",
-  image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-g.vercel.app",
+  image: "https://avatars.githubusercontent.com/u/16585631?v=4",
+  url: "https://syahril-ramdani.vercel.app",
   keywords: [
     "Syahril",
     "Syahril Ramdani", 
