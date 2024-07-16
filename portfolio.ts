@@ -29,9 +29,7 @@ export const socialLinks: SocialLinksType = {
   email: "mailto:syahrilr51@gmail.com",
   linkedin: "https://www.linkedin.com/in/syahril-r/",
   github: "https://github.com/grimm04",
-  instagram: "https://www.instagram.com/gggr1mm",
-  // facebook: 'https://www.facebook.com/1hanzla100',
-  // twitter: 'https://twitter.com/1hanzla100',
+  instagram: "https://www.instagram.com/gggr1mm", 
 };
      // emoji("⚡ Building responsive Single-Page-Apps (SPA) & PWA in React.js"),
         // emoji("⚡ Building responsive static websites using Next.js"),
@@ -180,7 +178,6 @@ export const projects: ProjectType[] = [
   {
     name: "Pilkada.id APIs",
     desc: "Backend Developer for this web, Fastapi as the main services for APIs. this web APPs usually for mini transactions and there have some products.",
-    // github: "https://github.com/1hanzla100/developer-portfolio",
     link: "https://pilkada2024.id",
     projectImg:"/img/projects/pilkada.png",
   },
